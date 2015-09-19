@@ -14,9 +14,6 @@ width: 800px; margin: 20px auto 20px;
 font-weight: bold;
 line-height: 5px;
 }
-/*.personal-statement {
-	width: 600px;
-}*/
 .personal-statement p { 
 	padding: 25px 0px 25px 0;
 }
@@ -57,8 +54,11 @@ main h2 {
 	border-right: 1px solid #999;
 	float:left;
 }
+.current h2 {
+	height: 75px;
+}
 .trinity h2 {
-	height: 350px; 
+	height: 260px; 
 	}
 .sting h2 {
 	height: 78px; 
